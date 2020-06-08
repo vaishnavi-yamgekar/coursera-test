@@ -66,7 +66,6 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	color: white;
 	background-color: #C20422;
 }
 
@@ -81,6 +80,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	background-color: #F5DA71;
+	color: white;
 	padding: 5px;
 }
 
